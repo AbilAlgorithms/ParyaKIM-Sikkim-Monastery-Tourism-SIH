@@ -6,6 +6,19 @@ The platform aims to promote cultural tourism by helping users explore famous mo
 
 ---
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Monasteries Section
+![Monasteries](screenshots/monasteries.png)
+
+### Footer
+![Footer](screenshots/footer.png)
+
+---
+
 ## 🌐 Live Website
 
 https://paryakim.vercel.app
