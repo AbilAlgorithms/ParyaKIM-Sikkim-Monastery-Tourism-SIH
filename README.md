@@ -1,3 +1,5 @@
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://paryakim.vercel.app)
+
 # 🏔️ ParyaKIM – Sikkim Monastery Tourism Platform
 
 ParyaKIM is a tourism discovery platform designed to showcase the rich spiritual and cultural heritage of Sikkim through its monasteries.
